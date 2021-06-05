@@ -289,7 +289,11 @@
 .sub_box {
     width: 33%;
     position: relative;
-    /* margin: 0 15px; */
+}
+
+.margin0 {
+    padding: 0 0 0 35px;
+    box-sizing: border-box;
 }
 
 .Our_Services h4 {
@@ -649,6 +653,9 @@
         width: 100%;
         margin: 20px 0;
         text-align: center;
+    }
+    .margin0 {
+        padding: 0;
     }
     /* .....................................upcoming Events.............................................. */
     .Up_events {
