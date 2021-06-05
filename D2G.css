@@ -19,13 +19,6 @@
     filter: grayscale(40%);
 }
 
-
-/* .gray_scale {
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.712);
-} */
-
 .contact h2 {
     width: 350px;
     font-size: 75px;
@@ -638,7 +631,7 @@
 
 /* ..........................................Responsive....................................................... */
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
     .contact {
         width: 100%;
     }
